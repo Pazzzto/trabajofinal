@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 400" style="enable-background:new 0 0 800 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EFEFEF;}
+	.st1{fill:none;stroke:#FF5722;stroke-width:2.5367;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{font-family:'HelveticaNowText-Bold';}
+	.st4{font-size:21.7537px;}
+	.st5{font-family:'Helvetica';}
+</style>
+<rect x="9" y="174" class="st0" width="214.5" height="59.3"/>
+<g>
+	<line class="st1" x1="12.4" y1="233.3" x2="789.7" y2="233.3"/>
+	<rect x="9" y="255.6" class="st2" width="198.2" height="47.9"/>
+	<text transform="matrix(1 0 0 1 46.1286 271.0508)"><tspan x="0" y="0" class="st3 st4">Ciclo básico</tspan><tspan x="37.1" y="26.1" class="st3 st4">I a IV</tspan></text>
+	<rect x="225.7" y="255.6" class="st2" width="302.3" height="54.9"/>
+	<text transform="matrix(1 0 0 1 278.7668 271.0508)"><tspan x="0" y="0" class="st3 st4">Ciclo especializado</tspan><tspan x="62.9" y="26.1" class="st3 st4">V a VIII</tspan></text>
+	<rect x="552.8" y="255.6" class="st2" width="256.2" height="54.9"/>
+	<text transform="matrix(1 0 0 1 595.257 271.0508)"><tspan x="0" y="0" class="st3 st4">Ciclo profesional</tspan><tspan x="56.3" y="26.1" class="st3 st4">IX a X</tspan></text>
+</g>
+<rect x="26" y="181.6" class="st2" width="180.4" height="51.6"/>
+<text transform="matrix(1 0 0 1 62.9504 197.29)"><tspan x="0" y="0" class="st5 st4">Lenguaje y </tspan><tspan x="-6" y="26.1" class="st5 st4">significación</tspan></text>
+</svg>
